@@ -1,1 +1,5 @@
-# coding-project-template
+# IBM React Final Project
+
+e-plantShopping Application
+
+A React e-Commerce project which allows users to update their shopping cart, including the frontend of the application using react
